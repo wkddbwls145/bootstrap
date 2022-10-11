@@ -122,3 +122,5 @@ Some third-party plugins that we used to build this template. Please check their
 * **Colorbox**: <https://www.jacklmoore.com/colorbox/>
 * **Slick**: <https://kenwheeler.github.io/slick/>
 * **Shuffle**: <https://vestride.github.io/Shuffle/>
+
+수정
