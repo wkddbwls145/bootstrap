@@ -3502,6 +3502,6 @@ label {
 /* 유진 추가*/
 video {
   display: block;
-  max-width: 80%;
+  max-width: 100%;
   margin: 20px auto;
 }
